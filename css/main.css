@@ -34,6 +34,7 @@ h6 {
 .section--dark{
     background: #1b4848;
     color: white;
+    background: url("images/FR.png");
 }
 
 .section__content{
