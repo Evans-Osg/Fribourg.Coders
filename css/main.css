@@ -53,11 +53,11 @@ h6 {
     display: block;
 }
 
-#hero { 
+/*#hero { 
     height: 600px;
     background: url("images/FR.png");
     background-size: cover;
-}
+}*/
 
 .ctabox{
     margin: 50px 0;
