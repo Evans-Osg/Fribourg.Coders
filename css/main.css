@@ -34,7 +34,6 @@ h6 {
 .section--dark{
     background: #1b4848;
     color: white;
-    background: url("images/FR.png");
 }
 
 .section__content{
@@ -53,11 +52,11 @@ h6 {
     display: block;
 }
 
-/*#hero { 
+#hero { 
     height: 600px;
-    background: url("images/FR.png");
+    background: url("./images/FR.png");
     background-size: cover;
-}*/
+}
 
 .ctabox{
     margin: 50px 0;
