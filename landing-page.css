@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family:"Quicksand", sans-serif;
+    font-size: 16px;
+    background: #333333;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 1.05rem;
+    margin: 20px 0;
+}
+
+strong{
+    font-weight: bold;
+}
+#bg { 
+    height: 600px;
+    background: url("../images/FR.png");
+    background-size: cover;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+.banner__logo{
+    height: 100px;
+    display: block;
+}
+.box{
+    align-content: center;
+    margin: 50px 0;
+    max-width: 800px;
+    text-align:center;
+    font-size: 1.5rem;
+    color: white;
+}
+.section__button{
+    width: 100%;
+    text-align: center;
+    background: white;
+}
+.section__content{
+    max-width: 500;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+button{
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
